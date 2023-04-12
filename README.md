@@ -4,4 +4,19 @@
 I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I'm 15 years old and I'm from Ukraine. I started learning programming two years ago and now I'm studying at Creator IT Academy. Where I evolving every day and I don't sit in one place
 
 
- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-OStapPRodaniuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/OstapoKapo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:OstapoKapo@gmail.com)
+ :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-OstapProdaniuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/OstapoKapo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:OstapoKapo@gmail.com)
+
+
+### 🤝 Social media:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/ostap-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BD%D1%8E%D0%BA-978a49244/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/OstapoKapo" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://www.instagram.com/ost_prodaniuk/" target="_blank">
+      <img src="![image](https://user-images.githubusercontent.com/105784216/231593129-8d41ab12-e01f-4bed-b739-22f4777869e9.png)" width="40" height="40" alt="Zen Badge"/>
+    </a>
+  </div>
