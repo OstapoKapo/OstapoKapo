@@ -47,7 +47,7 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=OstapoKapo&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OstapoKapo&layout=compact&theme=vision-friendly-darks" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OstapoKapo&layout=compact&theme=dark&background=000000" />
     </td>
  </tr>
 </table>
