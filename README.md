@@ -33,4 +33,5 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="mongodb" alt="" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" alt="" width="40" height="40"/>
 </div>
