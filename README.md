@@ -17,6 +17,6 @@ I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCE
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://www.instagram.com/ost_prodaniuk/" target="_blank">
-      <img src="![image](https://user-images.githubusercontent.com/105784216/231593129-8d41ab12-e01f-4bed-b739-22f4777869e9.png)" width="40" height="40" alt="Zen Badge"/>
+      <img src="![image](https://user-images.githubusercontent.com/105784216/231593129-8d41ab12-e01f-4bed-b739-22f4777869e9.png)" width="40" height="40" />
     </a>
   </div>
