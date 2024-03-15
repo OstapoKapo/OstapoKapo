@@ -1,8 +1,7 @@
 ### Hello I'm Prodaniuk Ostap
 ### :man_technologist: About Me:
 
-Hello, I'm Prodanyuk Ostap form Ukraine. I am studing web developing for 4 years<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> . I evolving every day and I have a lot of hard skills, which I use in my latest project. Also I can boast such soft skills as honesty and openness, I always find a way out of problems and leadership skills, which I have used more than once in team projects
-
+As Web Developer. I am skilled in front-end and back-end development, with a passion for creating visually appealing and programmed websites.  I am studing web developing for 4 years <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I evolving every day and I have a lot of hard skills, which I use in my latest project. Also I can boast such soft skills as honesty and openness, I always find a way out of problems and leadership skills, which I have used more than once in team projects
  :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-OstapProdaniuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/OstapoKapo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:OstapoKapo@gmail.com)
 
 
