@@ -1,8 +1,7 @@
 ### Hello I'm Prodaniuk Ostap
 ### :man_technologist: About Me:
 
-I am a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I'm 15 years old and I'm from Ukraine. I started learning programming two years ago and now I'm studying at Creator IT Academy. Where I evolving every day and I don't sit in one place
-
+Hello, I'm Prodanyuk Ostap form Ukraine. I am studing web developing for 4 years<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> . I evolving every day and I have a lot of hard skills, which I use in my latest project. Also I can boast such soft skills as honesty and openness, I always find a way out of problems and leadership skills, which I have used more than once in team projects
 
  :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-OstapProdaniuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/OstapoKapo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:OstapoKapo@gmail.com)
 
