@@ -1,51 +1,82 @@
-### Hello I'm Prodaniuk Ostap
-### :man_technologist: About Me:
+<p align="center">
+  <img src="https://media.giphy.com/media/hvGCQv1m7V3V6/giphy.gif" alt="Hi there!" width="100"/>
+</p>
 
-As Web Developer. I am skilled in front-end and back-end development, with a passion for creating visually appealing and programmed websites.  I am studing web developing for 4 years <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I evolving every day and I have a lot of hard skills, which I use in my latest project. Also I can boast such soft skills as honesty and openness, I always find a way out of problems and leadership skills, which I have used more than once in team projects
- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-OstapProdaniuk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/OstapoKapo) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:OstapoKapo@gmail.com)
+# Hello! I'm Prodaniuk Ostap 👋
 
+<p align="center">
+  ![GitHub Followers](https://img.shields.io/github/followers/OstapoKapo?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/OstapoKapo?style=social)
+</p>
+
+---
+
+### 👨‍💻 About Me:
+
+As a Web Developer, I am skilled in front-end and back-end development, with a passion for creating visually appealing and well-engineered websites. I have been studying web development for 4 years, constantly evolving and leveraging a solid set of hard skills in my latest projects. Additionally, I pride myself on soft skills such as honesty and openness, my ability to always find solutions to problems, and leadership, which I have successfully demonstrated in team projects.
+
+---
+
+### 💡 My Latest Project: E-commerce Website Development
+
+* **Role:** Developer in a team of [X] people.
+* **Description:** Developed a full-fledged online store featuring a product catalog, shopping cart, order management system, and user personal account.
+* **Technologies:** Next.js, Nest.js, MongoDB.
+* **Demo:** [Link to your project demo if available]
+* **Repository:** [Link to your project GitHub repository if public]
+
+---
+
+### 💻 Technologies:
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  </p>
+
+---
 
 ### 🤝 Social media:
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/ostap-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BD%D1%8E%D0%BA-978a49244/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/OstapoKapo" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://www.instagram.com/ost_prodaniuk/" target="_blank">
-      <img src="https://user-images.githubusercontent.com/105784216/231593129-8d41ab12-e01f-4bed-b739-22f4777869e9.png" width="40" height="40" />
-    </a>
-  </div>
-  
-  
-  ### 💻 Technologies:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OstapoKapo)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<div>
+---
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="mongodb" alt="" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" alt="" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="jquery" alt="" width="40" height="40"/>
+### 📈 GitHub Statistics:
 
-</div>
+![Ostap's GitHub stats](https://github-readme-stats.vercel.app/api?username=OstapoKapo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OstapoKapo&layout=compact&theme=radical)
 
+---
 
-### ⚙️ GitHub statistics:
+**Пам'ятайте:**
 
-<table>
- <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=OstapoKapo&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OstapoKapo&layout=compact&theme=vision-friendly-dark" />
-    </td>
- </tr>
-</table>
+* Замініть `your-username`, `your-linkedin-profile`, `your.email@example.com` та `path/to/your-demo.gif` на свої реальні дані.
+* Зображення-логотипи технологій (devicons) потрібно посилати на зовнішні URL, або зберігати їх у вашому репозиторії.
+* Експериментуйте з різними стилями `shields.io` (flat, plastic, for-the-badge) та темами `github-readme-stats`!
+
+Вибирайте те, що вам найбільше подобається і що відповідає вашому стилю! Успіхів!
