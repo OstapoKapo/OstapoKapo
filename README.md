@@ -2,15 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=007BFF&width=430&lines=Hello%2C+I'm+Prodaniuk+Ostap%3BWeb+Developer%3BProblem+Solver%3BTeam+Player!" alt="Typing SVG" />
 </p>
 
-# Hello! I'm Prodaniuk Ostap 👋
-
-<p align="center">
-  ![GitHub Followers](https://img.shields.io/github/followers/OstapoKapo?style=social)
-  ![GitHub stars](https://img.shields.io/github/stars/OstapoKapo?style=social)
-</p>
-
----
-
 ### 👨‍💻 About Me:
 
 As a Web Developer, I am skilled in front-end and back-end development, with a passion for creating visually appealing and well-engineered websites. I have been studying web development for 4 years, constantly evolving and leveraging a solid set of hard skills in my latest projects. Additionally, I pride myself on soft skills such as honesty and openness, my ability to always find solutions to problems, and leadership, which I have successfully demonstrated in team projects.
