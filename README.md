@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvGCQv1m7V3V6/giphy.gif" alt="Hi there!" width="100"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=007BFF&width=430&lines=Hello%2C+I'm+Prodaniuk+Ostap%3BWeb+Developer%3BProblem+Solver%3BTeam+Player!" alt="Typing SVG" />
 </p>
 
 # Hello! I'm Prodaniuk Ostap 👋
@@ -72,11 +72,3 @@ As a Web Developer, I am skilled in front-end and back-end development, with a p
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OstapoKapo&layout=compact&theme=radical)
 
 ---
-
-**Пам'ятайте:**
-
-* Замініть `your-username`, `your-linkedin-profile`, `your.email@example.com` та `path/to/your-demo.gif` на свої реальні дані.
-* Зображення-логотипи технологій (devicons) потрібно посилати на зовнішні URL, або зберігати їх у вашому репозиторії.
-* Експериментуйте з різними стилями `shields.io` (flat, plastic, for-the-badge) та темами `github-readme-stats`!
-
-Вибирайте те, що вам найбільше подобається і що відповідає вашому стилю! Успіхів!
