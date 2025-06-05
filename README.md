@@ -46,6 +46,9 @@ As a Web Developer, I am skilled in front-end and back-end development, with a p
 
 ---
 
+[![Codewars Rank](https://www.codewars.com/users/OstapoKapo/badges/large)](https://www.codewars.com/users/OstapoKapo)
+
+
 ### 📈 GitHub Statistics:
 
 ![Ostap's GitHub stats](https://github-readme-stats.vercel.app/api?username=OstapoKapo&show_icons=true&theme=radical)
