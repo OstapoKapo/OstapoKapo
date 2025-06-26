@@ -8,13 +8,13 @@ As a Web Developer, I am skilled in front-end and back-end development, with a p
 
 ---
 
-### 💡 My Latest Project: E-commerce Website Development
+### 💡 My Latest Project: Admin-panel project
 
-* **Role:** Developer in a team of [X] people.
-* **Description:** Developed a full-fledged online store featuring a product catalog, shopping cart, order management system, and user personal account.
-* **Technologies:** Next.js, Nest.js, MongoDB.
-* **Demo:** [Link to your project demo if available]
-* **Repository:** [Link to your project GitHub repository if public]
+* **Role:** full-stack developer.
+* **Description:** developed full admin panel with all features .
+* **Technologies:** Next.js, Nest.js, Prisma ORM, PostgreSql.
+* **Demo:** https://adminpanel-murex.vercel.app/
+* **Repository:** private
 
 ---
 
