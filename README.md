@@ -12,7 +12,7 @@ As a Web Developer, I am skilled in front-end and back-end development, with a p
 
 * **Role:** full-stack developer.
 * **Description:** developed full admin panel with all features .
-* **Technologies:** Next.js, Nest.js, Prisma ORM, PostgreSql.
+* **Technologies:** Next.js, Nest.js, Prisma ORM, PostgreSql, AI
 * **Demo:** https://adminpanel-murex.vercel.app/
 * **Repository:** private
 
