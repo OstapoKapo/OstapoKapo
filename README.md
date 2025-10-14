@@ -13,7 +13,7 @@ As a Web Developer, I am skilled in front-end and back-end development, with a p
 * **Role: Full-Stack Developer
 * **Description: Built a complete admin panel for the FlavorAI project — an AI-powered recipe management platform. The panel includes full CRUD functionality, authentication, and analytics.
 * **Technologies: Next.js, Nest.js, Prisma ORM, PostgreSQL, AI
-* **Demo: https://adminpanel-murex.vercel.app/
+* **Demo: 
 * **Repository: FlavorAI 
 
 ---
