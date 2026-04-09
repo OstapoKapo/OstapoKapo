@@ -8,13 +8,12 @@ As a Web Developer, I am skilled in front-end and back-end development, with a p
 
 ---
 
-### 💡 My Latest Project: Admin-panel project
+### 💡 My Latest Project: CortexAI Monorepo
 
-* **Role: Full-Stack Developer
-* **Description: Built a complete admin panel for the FlavorAI project — an AI-powered recipe management platform. The panel includes full CRUD functionality, authentication, and analytics.
-* **Technologies: Next.js, Nest.js, Prisma ORM, PostgreSQL, AI
-* **Demo: 
-* **Repository: FlavorAI 
+* **Role:** Full-Stack Developer
+* **Description:** Built an automated report generation platform for students using a microservices monorepo architecture. The platform allows users to upload data, select templates, and get properly formatted academic reports. Includes authentication, API gateway, report generation via AWS Lambda & SQS, and file storage on S3.
+* **Technologies:** Next.js, NestJS, TypeORM, PostgreSQL, Redis, Docker, Turborepo, AWS (S3, SQS, Lambda)
+* **Repository:** [cortexai-monorep](https://github.com/OstapoKapo/cortexai-monorep)
 
 ---
 
